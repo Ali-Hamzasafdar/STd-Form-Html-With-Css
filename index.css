@@ -1,0 +1,21 @@
+.A{
+    margin-left: 40%;
+    margin-right: 40%;
+    color: aliceblue;
+}
+button{
+    background-color: blue;
+
+    width: 65%;
+}
+.As{
+    color: beige;
+}
+.BA{
+    background-color: blueviolet;
+}
+.Form{
+    background:url(./picture\ 5.webp) ;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
